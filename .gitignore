@@ -1,0 +1,28 @@
+# Личные данные — никогда не коммитить
+vk_cookies.json
+settings.json
+*.cookies.json
+cookies.txt
+
+# Архив VK и служебные папки программы (если архив лежит внутри проекта)
+archive*/
+Archive*/
+_vksaver/
+_backup_html/
+*.part
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Системное и редакторы
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.log
