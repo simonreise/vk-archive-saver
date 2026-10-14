@@ -57,7 +57,7 @@
 Скачайте проект: кнопка **Code → Download ZIP** на GitHub или
 
 ```sh
-git clone https://github.com/<автор>/vk-archive-saver.git
+git clone https://github.com/simonreise/vk-archive-saver.git
 ```
 
 Удобнее всего положить папку проекта **рядом** с папкой архива: тогда программа
